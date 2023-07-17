@@ -1,0 +1,4 @@
+3|bms@bms.edu|password
+4|sahyadri@sahyadri.edu|password
+5|bangalore@bangalore.edu|password
+

@@ -1,0 +1,7 @@
+1|Harsharaj||B|2003-03-14|Male|20|7353003193|harsharajb14303@gmail.com|Mangalore
+2|Rakshit||Naik|1999-05-27|Male|24|97458965214|rakshitnaik79@gmail.com|Bangalore
+3|Kiran||Kumar|2002-04-19|Male|21|9035382240|kirankumarv@gmail.com|Mangalore
+4|kiran|kumar|v|2002-4-19|Male|21|9123456789|kiran@gmail.com|Mangalore
+5|Harsha|raj|B|1900-1-1|Male|123|9786452312|harsha@gmail.com|Bangalore
+6|kiran|kumar|A|2001-1-1|Male|22|9876543123|kiran@gmail.com|Mangalore
+7|kiran|kumar|v|1900-1-1|Male|123|9876543214|kiran@gmail.com|Bangalore

@@ -1,0 +1,7 @@
+1|harsharajb14303@gmail.com|pass
+2|rakshitnaik79@gmail.com|pass
+3|kirankumarv@gmail.com|pass
+4|kiran@gmail.com|kiran
+5|harsha@gmail.com|harsha
+6|kiran@gmail.com|kiran
+7|kiran@gmail.com|12345
